@@ -1,3 +1,9 @@
+#my env folder
+first_env/
+
+#VS Code
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
